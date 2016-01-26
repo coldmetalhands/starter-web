@@ -17,3 +17,7 @@ You cannot!
 ##Deployment
 
 Deploy it here
+
+###Copyright
+
+2015.MyEmpire
