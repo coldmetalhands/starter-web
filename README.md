@@ -20,4 +20,4 @@ Deploy it here
 
 ###Copyright
 
-2015.MyEmpire
+2015.MyEmpire No Rights Reserved
